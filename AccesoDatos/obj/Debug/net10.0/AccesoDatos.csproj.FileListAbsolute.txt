@@ -1,0 +1,12 @@
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\bin\Debug\net10.0\AccesoDatos.deps.json
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\bin\Debug\net10.0\AccesoDatos.dll
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\bin\Debug\net10.0\AccesoDatos.pdb
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\obj\Debug\net10.0\AccesoDatos.csproj.AssemblyReference.cache
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\obj\Debug\net10.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfoInputs.cache
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfo.cs
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\obj\Debug\net10.0\AccesoDatos.csproj.CoreCompileInputs.cache
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\obj\Debug\net10.0\AccesoDatos.dll
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\obj\Debug\net10.0\refint\AccesoDatos.dll
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\obj\Debug\net10.0\AccesoDatos.pdb
+E:\2do año Desarrollo de software\Ejercicios de c#\entregable-franciso Serafin\ConsoleApp\AccesoDatos\obj\Debug\net10.0\ref\AccesoDatos.dll
