@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q/RLrdK5T0w=",
+  "dgSpecHash": "1bSXtX4VooM=",
   "success": true,
-  "projectFilePath": "E:\\2do año Desarrollo de software\\Ejercicios de c#\\entregable-franciso Serafin\\ConsoleApp\\AccesoDatos\\AccesoDatos.csproj",
+  "projectFilePath": "E:\\2do año Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\AccesoDatos\\AccesoDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\frans\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.11\\microsoft.data.sqlite.core.10.0.11.nupkg.sha512",
     "C:\\Users\\frans\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.11\\microsoft.entityframeworkcore.10.0.11.nupkg.sha512",

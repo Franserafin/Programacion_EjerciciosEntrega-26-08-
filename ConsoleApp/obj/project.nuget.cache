@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C57Q3NPr928=",
+  "dgSpecHash": "OnurH80ZfIQ=",
   "success": true,
-  "projectFilePath": "E:\\2do año Desarrollo de software\\Ejercicios de c#\\entregable-franciso Serafin\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "E:\\2do año Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\frans\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\frans\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",

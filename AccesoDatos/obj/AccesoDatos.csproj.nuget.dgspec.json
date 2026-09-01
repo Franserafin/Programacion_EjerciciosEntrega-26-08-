@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2do año Desarrollo de software\\Ejercicios de c#\\entregable-franciso Serafin\\ConsoleApp\\AccesoDatos\\AccesoDatos.csproj": {}
+    "E:\\2do año Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\AccesoDatos\\AccesoDatos.csproj": {}
   },
   "projects": {
-    "E:\\2do año Desarrollo de software\\Ejercicios de c#\\entregable-franciso Serafin\\ConsoleApp\\AccesoDatos\\AccesoDatos.csproj": {
+    "E:\\2do año Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\AccesoDatos\\AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2do año Desarrollo de software\\Ejercicios de c#\\entregable-franciso Serafin\\ConsoleApp\\AccesoDatos\\AccesoDatos.csproj",
+        "projectUniqueName": "E:\\2do año Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\AccesoDatos\\AccesoDatos.csproj",
         "projectName": "AccesoDatos",
-        "projectPath": "E:\\2do año Desarrollo de software\\Ejercicios de c#\\entregable-franciso Serafin\\ConsoleApp\\AccesoDatos\\AccesoDatos.csproj",
+        "projectPath": "E:\\2do año Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\AccesoDatos\\AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\frans\\.nuget\\packages\\",
-        "outputPath": "E:\\2do año Desarrollo de software\\Ejercicios de c#\\entregable-franciso Serafin\\ConsoleApp\\AccesoDatos\\obj\\",
+        "outputPath": "E:\\2do año Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frans\\AppData\\Roaming\\NuGet\\NuGet.Config",
