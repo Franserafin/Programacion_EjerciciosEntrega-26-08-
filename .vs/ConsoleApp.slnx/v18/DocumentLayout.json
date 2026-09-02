@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|e:\\2do a\u00F1o desarrollo de software\\programacion i\\programacion_ejerciciosentrega-26-08-\\consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|e:\\2do a\u00F1o desarrollo de software\\programacion i\\programacion_ejerciciosentrega-26-08-\\accesodatos\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|e:\\2do a\u00F1o desarrollo de software\\programacion i\\programacion_ejerciciosentrega-26-08-\\accesodatos\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|e:\\2do a\u00F1o desarrollo de software\\programacion i\\programacion_ejerciciosentrega-26-08-\\consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Libro.cs",
               "DocumentMoniker": "E:\\2do a\u00F1o Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\AccesoDatos\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Models\\Libro.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "E:\\2do a\u00F1o Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\AccesoDatos\\Repositories\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Repositories\\IGenericRepository.cs",
@@ -64,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "E:\\2do a\u00F1o Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\AccesoDatos\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Repositories\\GenericRepository.cs",
               "ToolTip": "E:\\2do a\u00F1o Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\AccesoDatos\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "AccesoDatos\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T20:24:33.764Z",
               "EditorCaption": ""
@@ -83,14 +83,14 @@
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
               "ToolTip": "E:\\2do a\u00F1o Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQBAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T20:20:51.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ConsoleApp.csproj",
               "DocumentMoniker": "E:\\2do a\u00F1o Desarrollo de software\\Programacion I\\Programacion_EjerciciosEntrega-26-08-\\ConsoleApp\\ConsoleApp.csproj",
               "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.csproj",
@@ -98,8 +98,7 @@
               "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-01T20:19:46.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T20:19:46.917Z"
             }
           ]
         }
