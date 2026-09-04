@@ -14,5 +14,7 @@ namespace AccesoDatos.Models
         
         public int AutorId { get; set; }
 		public Autor Autor { get; set; } = null!;
+		public int CategoriaId { get; set; }
+		public Categoria Categoria { get; set; } = null!;
 	}
 }

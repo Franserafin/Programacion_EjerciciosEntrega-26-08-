@@ -3,6 +3,7 @@ using AccesoDatos.Repositories;
 
 IGenericRepository<Autor> autorRepository = new GenericRepository<Autor>();
 IGenericRepository<Libro> libroRepository = new GenericRepository<Libro>();
+IGenericRepository<Categoria> categoriaRepository = new GenericRepository<Categoria>();
 bool continuar = true;
 
 {
@@ -13,11 +14,14 @@ bool continuar = true;
 		Console.WriteLine(" SISTEMA DE BIBLIOTECA ");
 		Console.WriteLine("================================");
 		Console.WriteLine("1. Alta Autor");
-		Console.WriteLine("2. Alta Libro");
-		Console.WriteLine("3. Ver Libros");
-		Console.WriteLine("4. Modificar Autor");
-		Console.WriteLine("5. Modificar Libro");
-		Console.WriteLine("6. Eliminar Libro");
+		Console.WriteLine("2. Alta Categoria");
+		Console.WriteLine("3. Alta Libro");
+		Console.WriteLine("4. Ver Autores");
+		Console.WriteLine("5. Ver Categorias");
+		Console.WriteLine("6. Ver Libros");
+		Console.WriteLine("7. Modificar Autor");
+		Console.WriteLine("8. Modificar Libro");
+		Console.WriteLine("9. Eliminar Libro");
 		Console.WriteLine("0. Salir");
 		Console.WriteLine();
 
@@ -33,22 +37,35 @@ bool continuar = true;
 				break;
 
 			case "2":
+				AltaCategoria();
+				break;
+			
+			
+			case "3":
 				AltaLibro();
 				break;
 
-			case "3":
-				MostrarLibros();
-				break;
-
 			case "4":
-				ModificarAutor();
+				VerAutores();
 				break;
 
 			case "5":
-				ModificarLibro();
+				VerCategoria();
 				break;
 
 			case "6":
+				MostrarLibros();
+				break;
+
+			case "7":
+				ModificarAutor();
+				break;
+
+			case "8":
+				ModificarLibro();
+				break;
+
+			case "9":
 				EliminarLibro();
 				break;
 
@@ -119,6 +136,49 @@ bool continuar = true;
 		Console.WriteLine("Libro registrado correctamente.");
 
 		PresioneParaContinuar();
+	}
+
+	void AltaCategoria ()
+	{
+		Console.WriteLine("Nombre de la categoria: ");
+		string nombre = Console.ReadLine();
+		Categoria categoria = new Categoria { Nombre = nombre };
+		Console.WriteLine("Categoría registrada correctamente.");
+		PresioneParaContinuar();
+
+	}
+
+	void VerAutores() 
+	{
+		Console.WriteLine("===== LISTADO DE AUTORES =====");
+		var autores = libroRepository.ObtenerTodos();
+		if (autores != null)
+		{
+			Console.WriteLine("No existen autores registrados.");
+		}
+		else
+		{
+			foreach (var autor in autores)
+			Console.WriteLine($"ID: {autor.Id} -- Nombre: {autor.Autor.Nombre}");
+		}	
+			PresioneParaContinuar();
+	}
+
+	void VerCategoria() 
+	{
+		Console.WriteLine("===== LISTADO DE LIBROS =====");
+		var categorias = categoriaRepository.ObtenerTodos();
+		if (categorias!=null)
+		{
+			Console.WriteLine("No existen categorías registradas.");
+		}
+		else
+		{
+			foreach (var categoria in categorias)
+			Console.WriteLine($"ID: {categoria.Id} - {categoria.Nombre}");
+		}
+		PresioneParaContinuar();
+
 	}
 
 	void MostrarLibros()
